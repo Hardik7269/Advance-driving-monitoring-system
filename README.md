@@ -21,6 +21,7 @@ Simple code in python to detect Drowsiness and Yawn and alert the user using Dli
 
 
 # Run 
-It is suggested to install Jupyter notebook in your Raspberry Py 4. For external webcam, use the webcam number is used as 0.  
+It is suggested to install Jupyter notebook in your Raspberry Py 4. For external webcam, use the webcam number is used as 0.
+Extract 3 shape_predictor_68_face_landmarks.dat files in one folder.
 
 #
