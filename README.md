@@ -15,7 +15,7 @@ Simple code in python to detect Drowsiness and Yawn and alert the user using Dli
 
 # Used Sensors GrovePi+ kit
 1.Grove -Buzzer  
-2.Grove-Button  
+2.Grove-Button
 3.Grove-RGB Backlit LCD  
 4.External Web Camera  
 
